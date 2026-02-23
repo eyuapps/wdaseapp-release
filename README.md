@@ -77,5 +77,5 @@ This project is a labor of love and faith, carefully crafted by:
 
 <div align="center">
   <p><i>እግዚአብሔር ይባርካችሁ! May God bless you!</i></p>
-  <p>© 2024 Wdase Zeorthodox Project</p>
+  <p>© 2026 Wdase Zeorthodox Project</p>
 </div>
